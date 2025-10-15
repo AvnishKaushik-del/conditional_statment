@@ -1,0 +1,41 @@
+# a=int(input("enter the number"))
+# if(a>=90):
+#  print("he score A grade")
+# elif(a>=80):
+#  print("he score B grade") 
+# elif(a>=70):
+#  print("he score C grade") 
+# elif(a>=60):
+#  print("he score D grade")
+# elif(a>=50):
+#  print("he score F grade") 
+# else:
+#  print("less than 50 G grade")
+# a=int(input("enter a number"))
+# if(a%2==0):
+#     print("number is even")t
+# else:
+#     print("number is odd")    
+# a=int(input("enter a first number"))
+# b=int(input("enter a second number"))
+# if(a<b):
+#     print("1 number is less than 2 number")
+# # else:
+# #     print("2 number is greater than 1 number")
+# a=int(input("enter a first number"))
+# b=int(input("enter a second number"))
+# c=int(input("enter a third number"))
+# if((a>b) and (a>c)):
+#     print("first number is greater")
+# elif(b>c):
+#     print("second number is greater")
+# else:
+#     print("third number is greater")
+a=int(input("enter a number"))
+if(a%7==0):
+    print("a is multiple of 7")
+else:
+    print("a is not the multiple of 7")    
+
+        
+
